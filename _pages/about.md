@@ -1,17 +1,50 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a fourth-year Ph.D. student in Computer Science at the [PACMAN]() Group, Tsinghua University (2022–present), under the supervision of Professor [Jidong Zhai](), who also supervised my Master’s studies at Tsinghua University (2019-2022).
+My research interests focus on Machine Learning (LLM) System, Reinforcement Learning.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
-A data-driven personal website
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
+
+I grew up in Macau!!
+
+Publications
+======
+
+- **[OSDI'26]** Safeguarding LLM Training at Scale: Online SDC Detection and Insights from 35 Million GPU Hours <br>
+  <u>Kinman Lei</u>\*, Liyan Zheng\*, Xiang Li, Hongmin Chen, Yun Zhang, Gaohong Liu, Zuquan Song, Zixuan Ma, Zhiyu Xue, Minghui Yu, Shuguang Wang, Wencong Xiao, Haibin Lin, Yuyang Jin, Jidong Zhai, Bo Liu, Xin Liu
+
+- **[PPoPP'26]** RoMeo: Mitigating Dual-dimensional Outliers with Rotated Mixed Precision Quantization <br>
+  Qihao Zhang, MingLiang Tang, Mingshu Zhai, <u>Kinman Lei</u>, Jidong Zhai, 
+
+- **[SC'25]** UltraAttn: Efficiently Parallelizing Attention through Hierarchical Context-Tiling <br>
+  Haoyu Yang, Zan Zong, Yuyang Jin, <u>Kinman Lei</u>, Jiaao He, Qigang Yang, Jidong Zhai
+
+- **[USENIX ATC'25]** mTuner: Accelerating Parameter-Efficient Fine-Tuning with Elastic Tensor <br>
+  Kezhao Huang, Siqi Zhu, Mingshu Zhai, Liyan Zheng, <u>Kinman Lei</u>, Jiaao He, Yuyang Jin, Jidong Zhai
+
+- **[PPoPP'25]** FlashTensor: Optimizing Tensor Programs by Leveraging Fine-grained Tensor Property <br>
+  Runxin Zhong, Yuyang Jin, Chen Zhang, <u>Kinman Lei</u>, Shuangyu Li, Jidong Zhai
+
+- **[USENIX ATC'24]** PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch <br>
+  <u>Kinman Lei</u>, Yuyang Jin, Mingshu Zhai, Kezhao Huang, Haoxing Ye, and Jidong Zhai
+
+Internship
+======
+
+- [2024.09 - Present] **ByteDance Seed**, Research Intern of LLM Training Infra.
+- [2020.12 - 2021.12] **SenseTime AI**, Research Intern.
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +86,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
