@@ -17,23 +17,29 @@ My research interests focus on Machine Learning (LLM) System, Reinforcement Lear
 Publications
 ======
 
-- **[OSDI'26]** Safeguarding LLM Training at Scale: Online SDC Detection and Insights from 35 Million GPU Hours <br>
-  <u>Kinman Lei</u>\*, Liyan Zheng\*, Xiang Li, Hongmin Chen, Yun Zhang, Gaohong Liu, Zuquan Song, Zixuan Ma, Zhiyu Xue, Minghui Yu, Shuguang Wang, Wencong Xiao, Haibin Lin, Yuyang Jin, Jidong Zhai, Bo Liu, Xin Liu
+- **Safeguarding LLM Training at Scale: Online SDC Detection and Insights from 35 Million GPU Hours** <br>
+  <u>Kinman Lei</u>\*, Liyan Zheng\*, Xiang Li, Hongmin Chen, Yun Zhang, Gaohong Liu, Zuquan Song, Zixuan Ma, Zhiyu Xue, Minghui Yu, Shuguang Wang, Wencong Xiao, Haibin Lin, Yuyang Jin, Jidong Zhai, Bo Liu, Xin Liu <br>
+  <i>Accepted to appear in 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI'26)</i>
 
-- **[PPoPP'26]** RoMeo: Mitigating Dual-dimensional Outliers with Rotated Mixed Precision Quantization <br>
-  Qihao Zhang, MingLiang Tang, Mingshu Zhai, <u>Kinman Lei</u>, Jidong Zhai, 
+- **RoMeo: Mitigating Dual-dimensional Outliers with Rotated Mixed Precision Quantization** <br>
+  Qihao Zhang, MingLiang Tang, Mingshu Zhai, <u>Kinman Lei</u>, Jidong Zhai <br>
+  <i>In Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP'26)</i>
 
-- **[SC'25]** UltraAttn: Efficiently Parallelizing Attention through Hierarchical Context-Tiling <br>
-  Haoyu Yang, Zan Zong, Yuyang Jin, <u>Kinman Lei</u>, Jiaao He, Qigang Yang, Jidong Zhai
+- **UltraAttn: Efficiently Parallelizing Attention through Hierarchical Context-Tiling** <br>
+  Haoyu Yang, Zan Zong, Yuyang Jin, <u>Kinman Lei</u>, Jiaao He, Qigang Yang, Jidong Zhai <br>
+  <i>In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25)</i>
 
-- **[USENIX ATC'25]** mTuner: Accelerating Parameter-Efficient Fine-Tuning with Elastic Tensor <br>
-  Kezhao Huang, Siqi Zhu, Mingshu Zhai, Liyan Zheng, <u>Kinman Lei</u>, Jiaao He, Yuyang Jin, Jidong Zhai
+- **mTuner: Accelerating Parameter-Efficient Fine-Tuning with Elastic Tensor** <br>
+  Kezhao Huang, Siqi Zhu, Mingshu Zhai, Liyan Zheng, <u>Kinman Lei</u>, Jiaao He, Yuyang Jin, Jidong Zhai <br>
+  <i>In 2025 USENIX Annual Technical Conference (USENIX ATC 25)</i>
 
-- **[PPoPP'25]** FlashTensor: Optimizing Tensor Programs by Leveraging Fine-grained Tensor Property <br>
-  Runxin Zhong, Yuyang Jin, Chen Zhang, <u>Kinman Lei</u>, Shuangyu Li, Jidong Zhai
+- **FlashTensor: Optimizing Tensor Programs by Leveraging Fine-grained Tensor Property** <br>
+  Runxin Zhong, Yuyang Jin, Chen Zhang, <u>Kinman Lei</u>, Shuangyu Li, Jidong Zhai <br>
+  <i>In Proceedings of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP'25)</i>
 
-- **[USENIX ATC'24]** PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch <br>
-  <u>Kinman Lei</u>, Yuyang Jin, Mingshu Zhai, Kezhao Huang, Haoxing Ye, and Jidong Zhai
+- **PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch** <br>
+  <u>Kinman Lei</u>, Yuyang Jin, Mingshu Zhai, Kezhao Huang, Haoxing Ye, and Jidong Zhai <br>
+  <i>In 2024 USENIX Annual Technical Conference (USENIX ATC'24)</i>
 
 Internship
 ======
