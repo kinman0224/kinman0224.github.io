@@ -47,6 +47,10 @@ Internship
 - [2024.09 - Present] **ByteDance Seed**, Research Intern of LLM Training Infra.
 - [2020.12 - 2021.12] **SenseTime AI**, Research Intern.
 
+Services
+======
+
+- Artifact Evaluation Commitee, OSDI 2026
 
 <!-- A data-driven personal website
 ======
