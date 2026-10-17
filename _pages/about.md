@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year Ph.D. student in Computer Science at the [PACMAN Group](https://pacman.cs.tsinghua.edu.cn/), Tsinghua University (2022–present), under the supervision of Professor [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/), who also supervised my Master’s studies at Tsinghua University (2019-2022).
-My research interests focus on Machine Learning (LLM) System, Reinforcement Learning, and High Performance Computing.
+I am currently an LLM System Researcher at ByteDance Seed. I received my Ph.D. in Computer Science from Tsinghua University. I had a wonderful and rewarding time at the [PACMAN Group](https://pacman.cs.tsinghua.edu.cn/), where I was advised by Professor [Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/) during my Master’s studies (2019–2022) and subsequent Ph.D. studies.
+My research focuses on large-scale machine learning systems, particularly LLM training infrastructure, reinforcement learning, and high-performance computing.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
@@ -19,7 +19,7 @@ Publications
 
 - **Safeguarding LLM Training at Scale: Online SDC Detection and Insights from 35 Million GPU Hours** <br>
   <u>Kinman Lei</u>\*, Liyan Zheng\*, Xiang Li, Hongmin Chen, Yun Zhang, Gaohong Liu, Zuquan Song, Zixuan Ma, Zhiyu Xue, Minghui Yu, Shuguang Wang, Wencong Xiao, Haibin Lin, Yuyang Jin, Jidong Zhai, Bo Liu, Xin Liu <br>
-  <i>Accepted to appear in 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI '26)</i>
+  <i>In 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI '26)</i>
 
 - **RoMeo: Mitigating Dual-dimensional Outliers with Rotated Mixed Precision Quantization** <br>
   Qihao Zhang, MingLiang Tang, Mingshu Zhai, <u>Kinman Lei</u>, Jidong Zhai <br>
@@ -41,10 +41,11 @@ Publications
   <u>Kinman Lei</u>, Yuyang Jin, Mingshu Zhai, Kezhao Huang, Haoxing Ye, and Jidong Zhai <br>
   <i>In 2024 USENIX Annual Technical Conference (USENIX ATC '24)</i>
 
-Internship
+Experience
 ======
 
-- [2024.09 - Present] **ByteDance Seed**, Research Intern of LLM Training Infra.
+- [2026.07 - Present] **ByteDance Seed**, LLM System Researcher.
+- [2024.09 - 2026.06] **ByteDance Seed**, Research Intern, LLM Training Infrastructure.
 - [2020.12 - 2021.12] **SenseTime AI**, Research Intern.
 
 Services
